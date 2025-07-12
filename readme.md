@@ -69,8 +69,6 @@ Do you want to create the profile for volatility? (y/n): y
 
 ## 🗃️ Output Structure
 
-- Here is an example how it looks the output structure on a Ubuntu-based system
-
 ```plaintext
 capture/
 └── memorydump_2025-07-12_14:32:10/
